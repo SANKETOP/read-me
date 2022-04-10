@@ -969,7 +969,7 @@ async def autodank(ctx):
             await ctx.send('pls dep all')
             print(f"{Fore.GREEN}succefully sent pls dep all")
             print(f"{Fore.GREEN}Break for an hour")
-            await asyncio.sleep(3600)
+            await asyncio.sleep(100)
 
 
             
